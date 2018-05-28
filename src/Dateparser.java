@@ -9,7 +9,7 @@ public class Dateparser {
     public static void main(String[] args) throws Exception {
 
         String time = "2018-02-27T03:00:00";
-        //System.out.println(time.split("T")[1]);
+       /////System.out.println(time.split("T")[1]);
 
         SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");
 
